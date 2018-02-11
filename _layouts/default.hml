@@ -18,9 +18,9 @@
         <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <ul>
-          <li><a href="https://twitter.com/nashcocoaheads">Follow us on <strong>Twitter</strong></a></li>
-          <li><a href="https://www.youtube.com/channel/UCAzTFMlJjzXJ4A5--KfBjaw">Watch us on <strong>Youtube</strong></a></li>
-          <li><a href="https://www.meetup.com/Nashville-CocoaHeads/events/">Join us on <strong>Meetup</strong></a></li>
+          <li><a href="{{ site.twitter_url }}">Follow us on <strong>Twitter</strong></a></li>
+          <li><a href="{{ site.youtube_url }}">Watch us on <strong>Youtube</strong></a></li>
+          <li><a href="{{ site.meetup_events_url }}">Join us on <strong>Meetup</strong></a></li>
         </ul>
       </header>
       <section>
@@ -31,11 +31,10 @@
       <footer>        
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
 
-        <p><small>Hosted on <a href="https://github.com/NashvilleCocoaHeads/nashvillecocoaheads.github.io">GitHub Pages</a> &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on <a href="{{ site.website_source_repo_url }}">GitHub Pages</a> &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
 
   {% if site.google_analytics %}
     <script>
