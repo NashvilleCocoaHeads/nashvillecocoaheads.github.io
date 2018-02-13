@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Nashville CocoaHeads
 description: Nashville's iOS & macOS developer meetup.
+
+# URLs
+twitter_url: "https://twitter.com/nashcocoaheads"
+youtube_url: "https://www.youtube.com/channel/UCAzTFMlJjzXJ4A5--KfBjaw"
+meetup_events_url: "https://www.meetup.com/Nashville-CocoaHeads/events/"
+website_source_repo_url: "https://github.com/NashvilleCocoaHeads/nashvillecocoaheads.github.io"
