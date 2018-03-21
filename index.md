@@ -9,16 +9,14 @@ You can check out what we've been up to or RSVP for our next event on [Meetup].
 We wouldn't be able to keep this group running if it weren't for our awesome sponsors!
 
 - [LunarLincoln]
-- [Permobil]
+- [Smile Direct Club]
 
 Sponsorship covers everthing from the venue & refreshments at events to our Meetup.com membership.
 If you'd like to sponsor our meetup, feel free to reach out to us on [Twitter].
 
-## Sponsored Job Postings
+## Sponsored Job: [Senior Mobile Developer](http://bit.ly/2prK1xk)
 
-For February of 2018, we have the following sponsored job listings:
-
-- [Application Developer \| Permobil](/jobs/2018-02-job-application-developer-permobil.md)
+[Smile Direct Club] is looking for senior iOS engineers to help build out our very first mobile team. Since this team is brand new, you’ll assist in setting coding and development standards - plus, 100% Greenfield development. 
 
 
 <!-- LINKS -->
@@ -26,6 +24,5 @@ For February of 2018, we have the following sponsored job listings:
 [Twitter]: https://twitter.com/nashcocoaheads
 [Youtube]: https://www.youtube.com/channel/UCAzTFMlJjzXJ4A5--KfBjaw
 [Meetup]:  https://www.meetup.com/Nashville-CocoaHeads/events/
-
 [LunarLincoln]: http://www.lunarlincoln.com
-[Permobil]: http://www.permobil.com
+[Smile Direct Club]: https://smiledirectclub.com
