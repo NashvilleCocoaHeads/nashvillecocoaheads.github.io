@@ -9,15 +9,13 @@ You can check out what we've been up to or RSVP for our next event on [Meetup].
 We wouldn't be able to keep this group running if it weren't for our awesome sponsors!
 
 - [LunarLincoln]
-- [Smile Direct Club]
 
 Sponsorship covers everthing from the venue & refreshments at events to our Meetup.com membership.
 If you'd like to sponsor our meetup, feel free to reach out to us on [Twitter].
 
-## Sponsored Job: [Senior Mobile Developer](http://bit.ly/2prK1xk)
+## Sponsored Job
 
-[Smile Direct Club] is looking for senior iOS engineers to help build out our very first mobile team. Since this team is brand new, you’ll assist in setting coding and development standards - plus, 100% Greenfield development. 
-
+Your job could be here! Reach out to us on [Twitter] if you'd like to get your job post in front of the most talented Apple Developers in Nashville.
 
 <!-- LINKS -->
 
@@ -25,4 +23,3 @@ If you'd like to sponsor our meetup, feel free to reach out to us on [Twitter].
 [Youtube]: https://www.youtube.com/channel/UCAzTFMlJjzXJ4A5--KfBjaw
 [Meetup]:  https://www.meetup.com/Nashville-CocoaHeads/events/
 [LunarLincoln]: http://www.lunarlincoln.com
-[Smile Direct Club]: https://smiledirectclub.com
